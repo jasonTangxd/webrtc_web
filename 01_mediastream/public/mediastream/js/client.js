@@ -44,8 +44,8 @@ function start() {
         video: {
             width: 640,
             height: 480,
-            frameRate: 15,//视频的帧率
-            facingMode: 'enviroment'
+            frameRate: 15,  //视频的帧率
+            facingMode: 'enviroment' //后置摄像头
         },
         audio: false
     }
